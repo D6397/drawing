@@ -38,7 +38,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/你的用户名/ai-image-generator.git
+git clone https://github.com/D6397/drawing.git
 cd ai-image-generator
 ```
 
